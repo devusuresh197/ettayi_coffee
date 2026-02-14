@@ -1,4 +1,5 @@
-./screenshot/WhatsApp Image 2026-02-14 at 9.11.15 AM.jpeg
+![Screenshot5](./screenshot/WhatsApp%20Image%202026-02-14%20at%209.11.15%20AM.jpeg)
+
 # Ettayoi Coffee ☕💌
 
 Welcome to **Ettayoi Coffee**, a playful, romantic, and interactive website designed to combine **AI, creativity, and mini-games** into one delightful experience! ❤️✨
@@ -140,14 +141,14 @@ Ettayoi Coffee - Run Instructions
 5. screenshot
    ### Screenshots 
 
-![Screenshot1](./screenshot/Screenshot 2026-02-14 085710.png)
+![Screenshot1](./screenshot/Screenshot%202026-02-14%20085710.png)
 
-![Screenshot2](./screenshot/Screenshot 2026-02-14 085743.png)
+![Screenshot2](./screenshot/Screenshot%202026-02-14%20085743.png)
 
 
-![Screenshot3](./screenshot/Screenshot 2026-02-14 085855.png)
+![Screenshot3](./screenshot/Screenshot%202026-02-14%20085855.png)
 
-![Screenshot4](./screenshot/Screenshot 2026-02-14 085928.png)
+![Screenshot4](./screenshot/Screenshot%202026-02-14%20085928.png)
 
 6. live demo link
    video demo-https://drive.google.com/file/d/12BRbfQ3bG2xyCD1R9p0Ad_0pUqe1RgpF/view?usp=sharing
