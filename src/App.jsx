@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-route
 import bgImage from "./assets/c.png";
 import Ettayi from "./components/Ettayi"; // Import the AI component
 import CoffeeLoveCard from "./components/card"; // Import the Card component
+import HeartCollector from "./components/game"; 
 // ================= Landing Page Component =================
 const LandingPage = () => {
   const navigate = useNavigate();
@@ -55,7 +56,7 @@ const LandingPage = () => {
             className="bg-rose-600 hover:bg-rose-700 text-white px-8 py-4 rounded-full shadow-2xl transition transform hover:scale-110"
             onClick={() => navigate("/ettayi")}
           >
-            ettayi ai💌
+            toxic ano💌
           </button>
 
           {/* Placeholder buttons */}
@@ -63,14 +64,13 @@ const LandingPage = () => {
             className="bg-pink-400 text-black hover:bg-pink-500 px-8 py-4 rounded-full shadow-2xl transition transform hover:scale-110 font-semibold"
             onClick={() =>  navigate("/card")}
           >
-            mark your feelings
+            love card💌
           </button>
 
           <button
             className="bg-red-800 hover:bg-red-900 text-white px-8 py-4 rounded-full shadow-2xl transition transform hover:scale-110"
-            onClick={() => alert("Roast Zone coming soon! 🔥")}
-          >
-            Roast Zone 🔥
+            onClick={() => navigate("/game")}          >
+            steal my heart🫀
           </button>
         </div>
       </div>
@@ -97,6 +97,7 @@ const App = () => {
         <Route path="/" element={<LandingPage />} />
         <Route path="/ettayi" element={<Ettayi />} />
          <Route path="/card" element={<CoffeeLoveCard/>} />
+         <Route path="/game" element={<HeartCollector/>} />
       </Routes>
     </Router>
   );
