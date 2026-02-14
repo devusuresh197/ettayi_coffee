@@ -138,10 +138,17 @@ Ettayoi Coffee - Run Instructions
 
 ```
 5. screenshot
-   ./screenshot/Screenshot 2026-02-14 085710.png
-   ./screenshot/Screenshot 2026-02-14 085743.png
-   ./screenshot/Screenshot 2026-02-14 085855.png
-   ./screenshot/Screenshot 2026-02-14 085928.png
+   ### Screenshots 
+
+![Screenshot1](./screenshot/Screenshot 2026-02-14 085710.png)
+
+![Screenshot2](./screenshot/Screenshot 2026-02-14 085743.png)
+
+
+![Screenshot3](./screenshot/Screenshot 2026-02-14 085855.png)
+
+![Screenshot4](./screenshot/Screenshot 2026-02-14 085928.png)
+
 6. live demo link
    video demo-https://drive.google.com/file/d/12BRbfQ3bG2xyCD1R9p0Ad_0pUqe1RgpF/view?usp=sharing
    live link-https://ettayicoffe.vercel.app/
